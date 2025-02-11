@@ -13,4 +13,4 @@ A modern, interactive, and visually appealing portfolio website with dark gradie
 HTML5 → Structured layout
 CSS3 (Tailwind CSS) → Styling & animations
 JavaScript → Interactive effects
-GSAP / AOS (Optional) → Smooth scrolling animations
+![Screenshot 2025-02-11 201250](https://github.com/user-attachments/assets/bd631cd4-3e64-4934-b1f1-b908c1754ad2)
